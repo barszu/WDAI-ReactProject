@@ -1,61 +1,63 @@
 ---
-# 🛒 Projekt: Sklep Internetowy
+# 🛒 Project: Online Store
 ---
 
-### 📝 Opis:
+### 📝 Description:
 
-Projekt ten jest sklepem internetowym, który umożliwia użytkownikom przeglądanie i zakup produktów online. W sklepie dostępne są różnorodne produkty, a użytkownicy mogą dodawać je do koszyka, dokonywać zakupów, a także zarejestrować się lub zalogować się do swojego konta.
+This project is an online store that allows users to browse and purchase products online. The store offers a variety of products, and users can add them to their cart, make purchases, as well as register or log in to their account.
 
-### 🖼️ Zdjęcia:
+[PL version](./README_pl.md)
 
-Poniżej znajdują się zrzuty ekranu prezentujące działanie aplikacji:
+### 🖼️ Images:
 
-1. Ekran główny sklepu:
+Below are screenshots showcasing the application's functionality:
 
-   - przed zalogowaniem
+1. Store homepage:
 
-   ![Ekran Główny](docs/sklep_po_zalogowaniu.png)
+   - before logging in
 
-   - po zalogowaniu
+   ![Homepage](docs/sklep_po_zalogowaniu.png)
 
-   ![Ekran Główny](docs/sklep_przed_zalogowaniem.png)
+   - after logging in
 
-2. Strona produktu:
+   ![Homepage](docs/sklep_przed_zalogowaniem.png)
 
-   ![Strona Produktu](docs/widok_produktu.png)
+2. Product page:
 
-3. Koszyk zakupów:
+   ![Product Page](docs/widok_produktu.png)
 
-   ![Koszyk Zakupów](docs/koszyk.png)
+3. Shopping cart:
 
-4. Formularz logowania:
+   ![Shopping Cart](docs/koszyk.png)
 
-   ![Formularz Logowania](docs/zaloguj_sie.png)
+4. Login form:
 
-5. Formularz rejestracji:
+   ![Login Form](docs/zaloguj_sie.png)
 
-   ![Formularz Rejestracji](docs/zarejestruj_sie.png)
+5. Registration form:
 
-### 🧾 Instrukcja obsługi:
+   ![Registration Form](docs/zarejestruj_sie.png)
 
-1. **Przeglądanie Produktów:**
+### 🧾 User Guide:
 
-   - Na ekranie głównym sklepu znajdują się różnorodne produkty. Użytkownicy mogą przeglądać je i kliknąć na interesujący produkt, aby uzyskać więcej informacji.
+1. **Browsing Products:**
 
-2. **Dodawanie Produktów do Koszyka:**
+   - On the store's homepage, there are various products available. Users can browse them and click on a product of interest to get more information.
 
-   - Po wybraniu produktu, użytkownicy mogą dodać go do koszyka za pomocą przycisku "Dodaj do koszyka". Niezalogowani użytkownicy zostaną poproszeni o zalogowanie się przed dodaniem produktu do koszyka.
+2. **Adding Products to Cart:**
 
-3. **Logowanie/Rejestracja:**
+   - After selecting a product, users can add it to their cart using the "Add to Cart" button. Non-logged-in users will be prompted to log in before adding a product to their cart.
 
-   - Użytkownicy mogą zalogować się lub zarejestrować nowe konto, aby móc dokonywać zakupów. Formularze logowania i rejestracji są dostępne na stronie głównej.
+3. **Login/Registration:**
 
-4. **Zakup Produktów:**
-   - Po dodaniu produktów do koszyka, użytkownicy mogą przejść do kasy, gdzie dokonają płatności za zakupy.
+   - Users can log in or register a new account to make purchases. Login and registration forms are available on the main page.
 
-### 👨‍💻 Autorzy:
+4. **Purchasing Products:**
+   - After adding products to the cart, users can proceed to the checkout where they will make payments for their purchases.
 
-Projekt został stworzony przez trzy osoby:
+### 👨‍💻 Authors:
+
+The project was created by three individuals:
 
 1. Szymon Kubiczek
 2. Wiktor Dybalski
